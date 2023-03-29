@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hey 👋, I'm Albert
 
-<!--
-**Albert1995/Albert1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Developer with 8 years of experience, focusing on building high-quality and secure software. I have experience working in private companies.
 
-Here are some ideas to get you started:
+📝 Fact about me: Passione about planes ✈️, and planning to be a pilot. My favorite plane is Piper Seneca V.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+### Programming Languages
+
+- Java
+  - Spring Boot, JSF w/ Hibernate or EclipseLink, JUnit w/ Mockito
+- Python
+  - Django, Flask w/ SQLAlchemy, Pytest or unittest
+- SQL
+  - PostgreSQL, Oracle, MySQL, MariaDB
+- HTML and CSS
+- JavaScript
+  - TypeScript, Angular, React
+- Android / Kotlin
+
+### Tools
+
+- Docker
+- Kubernetes
+- AWS Cloud Services
